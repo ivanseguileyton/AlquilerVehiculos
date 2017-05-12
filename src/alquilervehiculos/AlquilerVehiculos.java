@@ -18,6 +18,8 @@ public class AlquilerVehiculos {
         
         Furgoneta f1 = new Furgoneta("147963H", 50, false);
         
+        // prueba
+        
         Camion cc1 = new Camion("159963H", 90);
         
         vehiculos.add(c1);
